@@ -5,4 +5,4 @@ It's purpose is in form of a web agency that designs great looking user-interfac
 
 ## Future plans
 
-To modify this project to a React web app using React + Vite and other languages/frameworks to have reusable components and manages states dynamically.
+To modify this project to a React web app using React + Vite and other languages/frameworks to consist of reusable components, props and manages states dynamically.
