@@ -5,7 +5,7 @@ function Home() {
         <section className="home" id="home">
             <div className="main">
                 <div className="main-heading">
-                    <h1>We are a <span>Creative</span> Design Agency</h1>
+                    <h1>We are a <span>Creative</span><br /> Design Agency</h1>
 
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consequat pulvinar cursus. 
                     Suspendisse venenatis pharetra nibh, vel porta sem varius ac. Cras mollis, nibh id dignissim volutpat, orci purus congue sem, 
