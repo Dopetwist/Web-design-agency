@@ -55,6 +55,19 @@ section {
     color: navy;
 }
 
+#design {
+    background: linear-gradient(rgba(0, 0, 0, 0.5)), url("/images/design-img.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#design h2 {
+    font-size: 3rem;
+    color: #fff;
+    text-align: center;
+}
+
 .logo img {
     height: 4rem;
     width: 4rem;
