@@ -68,11 +68,22 @@ section {
     text-align: center;
 }
 
+.grid-con {
+    display: grid;
+    grid-template: repeat(6, 1fr) / 50% 50%;
+    width: 100%;
+    gap: 2rem;
+    margin-top: 5rem;
+}
+
+.grid img {
+    width: 100%;
+}
+
 .logo img {
     height: 4rem;
     width: 4rem;
     border-radius: 50%;
-
 }
 
 .left {
