@@ -9,3 +9,4 @@ It's a web agency app designed with great looking user-interface.
 * Refine to a React web app using React + Vite and other languages/frameworks.
 * Enhance the UI/UX.
 * Add more functionalities.
+* Integrate backend systems.
