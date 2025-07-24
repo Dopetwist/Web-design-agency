@@ -1,12 +1,15 @@
 ## Overview
 
-I built this project with plain HTML and CSS when solidifying my frontend skills few years back.   
+A web agency app designed with great looking user-interface. 
 
-It's a web agency app designed with great looking user-interface. 
+## Technologies:
+
+* HTML: Structure of the web app.
+* CSS: For Stylings.
 
 ## Future plans
 
-* Refine to a React web app using React + Vite and other languages/frameworks.
+* Refine to a React web app using React + Vite.
 * Enhance the UI/UX.
 * Add more functionalities.
 * Integrate backend systems.
