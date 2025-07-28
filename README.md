@@ -7,7 +7,7 @@ A web agency app designed with great looking user-interface.
 * HTML: Structure of the web app.
 * CSS: For Stylings.
 
-## Future plans
+## Future Improvements
 
 * Refine to a React web app using React + Vite.
 * Enhance the UI/UX.
