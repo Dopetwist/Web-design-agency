@@ -1,6 +1,6 @@
 ## Overview
 
-A web agency app designed with great looking user-interface. 
+A web agency app designed and built with great looking user-interface. 
 
 ## Technologies:
 
