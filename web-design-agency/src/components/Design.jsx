@@ -6,7 +6,7 @@ function Design() {
             <h2>Explore our previous Designs</h2>
 
             <div className="grid-con">
-                <div className="design1 grid">
+                {/* <div className="design1 grid">
                     <img src="/images/design1.jpeg" alt="" />
                 </div>
                 <div className="design2 grid">
@@ -23,7 +23,7 @@ function Design() {
                 </div>
                 <div className="design6 grid">
                     <img src="/images/design5.jpeg" alt="" />
-                </div>
+                </div> */}
             </div>
         </section>
     )
